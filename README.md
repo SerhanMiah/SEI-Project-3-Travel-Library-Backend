@@ -79,7 +79,7 @@ Clone or download the repo then in your Terminal run the following commands:
 The first step was to plan the routes, models and controllers we would need to make sure the app would function how we planned. We started with the destination model and the user model and then added the review model. After this, we created a basic wireframe for the look of each page and how the users will navigate through the app.
 
 Wireframe: 
-![travel-screenshot](./src/img/screenshots/image10.png)
+![travel-screenshot](./img/screenshots/image10.png)
 
 
 
