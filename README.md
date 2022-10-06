@@ -26,7 +26,9 @@ Clone or download the repo then in your Terminal run the following commands:
 * Change into frontend folder cd frontend
 * Run the frontend npm run start
 
-![travel-screenshot](./src/img/screenshots/image4.png)
+![travel-screenshot](./img/screenshots/image4.png)
+
+
 
 ## The Brief
 
@@ -177,7 +179,7 @@ For Travel Library there was a lot more complexity to each page. We wanted to ad
 
 
 All Destionation in the frontend
-![travel-screenshot](./src/img/screenshots/image20.png)
+![travel-screenshot](./img/screenshots/image20.png)
 
 
 ```Javascript
@@ -345,7 +347,7 @@ useEffect(() => {
   )
 ```
 
-![travel-screenshot](./src/img/screenshots/image19.png)
+![travel-screenshot](./img/screenshots/image19.png)
 
 The MVP for this project was completed by the end of day 7. On day 8, we wanted to make the front end to be more appealing. All of us wanted to contribute to the frontend. I started working on the individual destination page by using a react-bootstrap. After getting feedback from my team. I used the Card bootstrap called kitchen sink which gave a more grided approach to how information was displayed. I kept the design simple and stuck to the wireframe when making any design choices.
  
@@ -381,11 +383,11 @@ const [ errors, setErrors ] = useState(false)
 ```
 
 Front end review page
-![travel-screenshot](./src/img/screenshots/image5.png)
+![travel-screenshot](./img/screenshots/image5.png)
 
 
 Front end result page
-![travel-screenshot](./src/img/screenshots/image1.png)
+![travel-screenshot](./img/screenshots/image1.png)
 
 
 
@@ -422,7 +424,7 @@ The profile, edit profile, review, and edit review pages were made with React co
 
 
 Front end review Form 
-![travel-screenshot](./src/img/screenshots/image5.png)
+![travel-screenshot](./img/screenshots/image5.png)
 
 
 ## Day 9 & 10 - Styling tweaks with my teammates
@@ -439,7 +441,7 @@ After we deployed the API we found it was easier with Heroku. We linked it up, t
 
 Home Page
 
-![travel-screenshot](./src/img/screenshots/image4.png)
+![travel-screenshot](./img/screenshots/image4.png)
 
 
 
@@ -447,30 +449,30 @@ Home Page
 
 Travel Library Index Page:
 
-![travel-screenshot](./src/img/screenshots/image9.png)
+![travel-screenshot](./img/screenshots/image9.png)
 
 
 
 
 Travel Library INDIVIDUAL PAGE:
 
-![travel-screenshot](./src/img/screenshots/image20.png)
+![travel-screenshot](./img/screenshots/image20.png)
 
 
 
 Travel Library Register Page and Login Page:
 
-![travel-screenshot](./src/img/screenshots/image25.png)
+![travel-screenshot](./img/screenshots/image25.png)
 
 
-![travel-screenshot](./src/img/screenshots/image7.png)
+![travel-screenshot](./img/screenshots/image7.png)
 
 
 
 
 Profile page:
 
-![travel-screenshot](./src/img/screenshots/image22.png)
+![travel-screenshot](./img/screenshots/image22.png)
 
 
 
@@ -478,13 +480,13 @@ Travel Library Add Destination and add Review:
 
 Add destination 
 
-![travel-screenshot](./src/img/screenshots/image7.png)
+![travel-screenshot](./img/screenshots/image7.png)
 
 
 
 Add Review
 
-![travel-screenshot](./src/img/screenshots/image24.png)
+![travel-screenshot](./img/screenshots/image24.png)
 
 
 
